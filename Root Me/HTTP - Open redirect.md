@@ -1,6 +1,6 @@
 The challenge welcomes with a a page with three buttons:\
 <img width="385" height="140" alt="image" src="https://github.com/user-attachments/assets/0cbe04e6-6ac1-4850-ac21-b794d4e2753d" />\
-The task hints to changes embedded links to a different one.\
+The task hints to change embedded links to a different one.\
 Let's turn on Burp Suit and try to intercept the request for Facebook:\
 <img width="1172" height="592" alt="image" src="https://github.com/user-attachments/assets/c6266c17-25c8-470f-ad5e-860a495afb2a" />\
 Let's change the URL of redirection to something different:\
